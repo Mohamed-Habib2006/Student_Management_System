@@ -1,2 +1,36 @@
-# Student_Management_System
-This C++ program manages student records using a class-based system. It supports adding, displaying, editing, searching (by ID or name), and deleting students. It uses arrays and encapsulation with getters/setters, and provides a simple text-based menu for interaction.
+ # 📚 Student Management System – C++
+
+A simple console-based *Student Management System* built using *C++*.  
+This program allows users to add, display, edit, delete, and search for student records using an object-oriented approach.
+
+---
+
+## 🛠 Technologies Used
+
+- 💻 C++
+- 🧠 Object-Oriented Programming (OOP)
+- 📦 Static Array Data Structure
+
+---
+
+## 🎯 Features
+
+- ➕ Add a new student
+- 📋 Display all students
+- 🔍 Search student by ID
+- 🔍 Search student by name
+- 📝 Edit student data
+- ❌ Delete student record
+- 🚪 Exit the system
+
+---
+
+## 🧪 How to Run
+
+1. Make sure you have a *C++ compiler* installed (e.g., g++).
+2. Save the file as main.cpp.
+3. Open your terminal or command prompt and run:
+
+```bash
+g++ main.cpp -o student_system
+./student_system
